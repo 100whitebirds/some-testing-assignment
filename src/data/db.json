@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "12345"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "phoneNumber": "+77777777777",
+      "firstImpression": "Положительное",
+      "acqDate": "2021-11-01T21:00:00.000Z",
+      "photo": "images/doe.jpeg",
+      "owner": "user1"
+    },
+    {
+      "id": 2,
+      "name": "Elis Sandberg",
+      "phoneNumber": "+79990009900",
+      "firstImpression": "Мутный чел",
+      "acqDate": "2007-02-06T21:12:00.000Z",
+      "photo": "images/elis.jpeg",
+      "owner": "user1"
+    }
+  ]
+}
